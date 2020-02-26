@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BLOG
-subtitle: A cool guy
+title: THIRdCokE
+subtitle: 三个码
 description: >- # this means to ignore newlines until "baseurl:"
   Excuse me??
 author: John
@@ -39,12 +39,12 @@ email: thirdcoke~outlook.com
 avatar: assets/images/avatar2.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https://github.com/thirdcoke
 googleplus_url:
 instagram_url:
 linkedin_url:
