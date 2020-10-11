@@ -1,5 +1,6 @@
 ---
 title: Follow Up App 路线图
+permalink: /app/followup/roadmap
 layout: page
 ---
 
