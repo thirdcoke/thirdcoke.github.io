@@ -1,6 +1,6 @@
 ---
 title: Follow Up App 路线图
-permalink: /app/followup/roadmap
+permalink: /app/followup/roadmap/en
 layout: page
 ---
 
@@ -15,7 +15,7 @@ layout: page
 | **开发中**                                                   |
 | - 数据库备份<br />                                           |
 | **计划中**                                                   |
-|                                |
+|                                                              |
 | **评估中**                                                   |
-| - iCloud自动备份<br />- 跟进主题的标签功能<br />- 跟进记录的标签功能<br />- 跟进条目外观支持图片<br />- 跟进列表和跟进记录列表的排序 |
+| - iCloud自动备份<br />- 跟进主题的标签功能<br />- 跟进记录的标签功能<br />- 跟进条目外观支持图片<br />- 跟进列表和跟进记录列表的排序<br />- 周期备份提醒<br />- 自定义跟进主题的栏目 |
 
