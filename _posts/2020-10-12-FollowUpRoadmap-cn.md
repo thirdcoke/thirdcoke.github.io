@@ -1,21 +1,23 @@
 ---
-title: Follow Up App Roadmap
+title: Follow Up App 路线图
 permalink: /app/followup/roadmap/cn
 layout: page
 ---
 
-Descriptions:
+说明：
 
-Features in **Developing** are working in progress and will be available in the near future.<br />
-Features in **Planed** are confirmed to be added later.<br />
-Features in **Evaluating** indicates that I have some ideas but not sure if I will do it. Probably will be removed later.
+**开发中** 中的内容正在开发，会在将来的某个版本上线。<br />
+**计划中** 的内容表示已确定会加入该功能，但暂时还没有开始制作。<br />
+**评估中** 的内容表示我有想法去做这个功能，但是不能确定是否有必要，最终可能会被砍掉。
 
-| Roadmap                                                      |
+如果您有任何建议或意见，可发邮件至studiotcfollowup$outlook.com
+
+| 开发路线图                                                   |
 | ------------------------------------------------------------ |
-| **Developing**                                               |
-| - Database backup<br />                                      |
-| **Planed**                                                   |
+| **开发中**                                                   |
+| - 数据库备份<br />                                           |
+| **计划中**                                                   |
 |                                                              |
-| **Evaluating**                                               |
-| - iCloud Backup<br />- Tag for follow up subjects<br />- Tag for follow up record<br />- Image background for follow up subjects<br />- More ways of sort for subject and record list<br />- Backup reminder<br />- Customize the data columns for a subject |
+| **评估中**                                                   |
+| - iCloud自动备份<br />- 跟进主题的标签功能<br />- 跟进记录的标签功能<br />- 跟进条目外观支持图片<br />- 跟进列表和跟进记录列表的排序<br />- 周期备份提醒<br />- 自定义跟进主题的栏目 |
 
