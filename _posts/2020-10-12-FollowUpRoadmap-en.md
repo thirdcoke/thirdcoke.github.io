@@ -18,7 +18,7 @@ If you have any advise or feedback, please send an email to studiotcfollowup$out
 | **Developing**                                               |
 | - Database backup<br />                                      |
 | **Planed**                                                   |
-|                                                              |
+| - iCloud Sync<br />- iPad UI                                 |
 | **Evaluating**                                               |
-| - iCloud Backup<br />- Tag for follow up subjects<br />- Tag for follow up record<br />- Image background for follow up subjects<br />- More ways of sort for subject and record list<br />- Backup reminder<br />- Customize the data columns for a subject |
+| - Tag for follow up subjects<br />- Tag for follow up record<br />- Image background for follow up subjects<br />- More ways of sort for subject and record list<br />- Backup reminder<br />- Customize the data columns for a subject |
 
